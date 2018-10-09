@@ -8,7 +8,8 @@ The circuit is simpe: 4 MOSFET controlled by and Arduino Nano in order to have a
 
 
 
-The MOSFET I used: IRLZ44NPBF.
+MOSFET used:    IRLZ44NPBF.
+Voltage:        12V
 
 
 
