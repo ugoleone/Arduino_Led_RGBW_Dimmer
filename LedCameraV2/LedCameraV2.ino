@@ -160,7 +160,8 @@ int potValue = 0;
 
 int brightness = 255; //Deve essere memorizzata su EPROM e vanno eseguiti controlli su range di valori
 int velocity = 1000; //Deve essere memorizzata su EPROM e vanno eseguiti controlli su range di valori
-int color = 0; //Deve essere memorizzata su EPROM e vanno eseguiti controlli su range di valori
+int color = 20; //Deve essere memorizzata su EPROM e vanno eseguiti controlli su range di valori
+// All'accensione si parte con il colore bianco
 
 boolean flash = false;
 boolean jumpTre = false;
